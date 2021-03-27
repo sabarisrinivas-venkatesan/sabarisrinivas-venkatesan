@@ -3,10 +3,10 @@
 - I live in Chennai, TN, India
 - Cyber Security Engineer and Penetration Tester (White Hat hacker)
 - I like coding security tools and playing with 0 day Vulnerability
-- In my free time I play CTFs,Hack into a vulnhub vm or read a book
+- In my free time I play CTFs,Hack into a vulnhub vm or read  books.
 - Link to my linkedin account https://www.linkedin.com/in/sabarisrinivasv/
 - Contact Me through Discord @ dragonslayer20#8189
-- Open for Internship
+- Open for Internships in Infosec Field
 
 
 <!---
