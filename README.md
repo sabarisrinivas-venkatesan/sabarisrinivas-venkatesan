@@ -5,7 +5,8 @@
 - I like coding security tools and playing with Vulnerabilities
 - In my free time I play CTFs,Hack into a vulnhub vm or read  books.
 - Link to my linkedin account https://www.linkedin.com/in/sabarisrinivasv/
-- Contact Me through Discord @ dragonslayer20#8189
+- My Personal Website:www.sabarisrinivas.me
+- Contact Me @ contact@sabarisrinivas.me
 - Open for Internships in Infosec Field
 
 
