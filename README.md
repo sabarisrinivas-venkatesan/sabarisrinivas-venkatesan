@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sabarisrinivas-venkatesan
-- 👀 I am a Second Year Student at NIT Trichy
+- 👀 I am a Third Year (Junior) Student at NIT Trichy
 - I live in Chennai, TN, India
 - Cyber Security Engineer and Penetration Tester (White Hat hacker)
 - I like coding security tools and playing with Vulnerabilities
