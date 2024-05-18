@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @sabarisrinivas-venkatesan
-- 👀 I am a Fourth Year (Senior) Student at NIT Trichy studying Computer Science and Engineering
 - I live in Chennai, TN, India
 - Cyber Security Engineer and Penetration Tester (White Hat hacker)
 - I like coding security tools and playing with Vulnerabilities
-- In my free time I play CTFs,Hack into a vulnhub vm or read  books.
+- In my free time I play CTFs,Hack into a vulnhub vms or read  books.
 - Link to my linkedin account https://www.linkedin.com/in/sabarisrinivasv/
 
 
