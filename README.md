@@ -3,7 +3,7 @@
 - Cyber Security Engineer and Penetration Tester (White Hat hacker)
 - I like coding security tools and playing with Vulnerabilities
 - In my free time I play CTFs,play guitar or read  books.
-- Link to my linkedin account https://www.linkedin.com/in/vsabari/
+- Link to my linkedin account https://www.linkedin.com/in/sabarisrinivasv/
 
 
   
